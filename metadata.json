@@ -1,0 +1,6 @@
+{
+  "name": "The Baadshah Garment & Accessories",
+  "description": "Ahmedabad's premier men's fashion and accessories showroom in Odhav. High-quality menswear, shirts, jeans, ethnic kurtas, and luxury accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
